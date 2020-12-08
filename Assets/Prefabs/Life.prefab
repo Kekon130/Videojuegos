@@ -120,7 +120,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 5
+  m_Constraints: 4
 --- !u!114 &7919989937343270074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134,4 +134,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cd: {fileID: 4209102197472417799}
-  player: 0
